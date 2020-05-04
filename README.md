@@ -1,15 +1,4 @@
-# umi project
+### UMI学习  
+入门学习：https://www.yuque.com/umijs/umi  
 
-## Getting Started
-
-Install dependencies,
-
-```bash
-$ yarn
-```
-
-Start the dev server,
-
-```bash
-$ yarn start
-```
+由于不熟悉typescript语法； 没有使用ts
